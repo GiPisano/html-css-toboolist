@@ -51,7 +51,7 @@ body{
 .margin-card{
     margin-left:80px;
     padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 1px;
 }
 
 .header-card{
@@ -101,7 +101,7 @@ body{
 }
 
 .section{
-    margin-top: 50px;
+    margin-bottom: 40px;
 }
 
 /* color data */
