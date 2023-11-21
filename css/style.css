@@ -1,0 +1,74 @@
+/* generali */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header */
+
+.header{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    background-color: bisque;
+}
+
+.title-logo{
+    display: inline;
+    vertical-align: middle;
+    font-size: 50px;
+}
+
+.logo{
+    line-height: 100px;
+    vertical-align: middle;
+}
+
+/* card */
+
+.container-card{
+    margin: auto;
+    margin-top: 50px;
+    background-color: grey;
+    width: 60%;
+    height: 600px;
+    border-radius: 10px;
+}
+
+.margin-card{
+    margin-left:100px;
+}
+
+.header-card{
+    height: 50px;
+    border-bottom: 1px solid black;
+}
+
+.modify-border{
+    border: 1px solid black;
+    padding: 2px;
+    border-radius: 5px ;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+/* circle */
+.cerchio{
+    border-radius: 100%;
+    padding: 1px;
+}
+
+.verde{
+    color: greenyellow;
+    border: 1px solid greenyellow;
+}
+
+.rosso{
+    color: red;
+    border: 1px solid red;
+}
+
+.section{
+    margin-top: 30px;
+}
