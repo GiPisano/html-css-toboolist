@@ -10,13 +10,16 @@ p{
     font-size: 30px;
 }
 
+body{
+    background-color: rgb(197, 195, 195);
+}
 /* header */
 
 .header{
     width: 100%;
     height: auto;
     padding: 10px;
-    background-color: bisque;
+    background-color: white;
 }
 
 .title-logo{
@@ -36,7 +39,7 @@ p{
     margin: auto;
     margin-top: 50px;
     margin-bottom: 50px;
-    background-color: grey;
+    background-color: white;
     width: 60%;
     height: auto;
     border-radius: 10px;
@@ -55,12 +58,13 @@ p{
     margin-left: 100px;
 }
 
-.modify-border{
+.button{
     border: 1px solid black;
-    padding: 2px;
+    padding: 6px;
     border-radius: 5px ;
     vertical-align: middle;
     line-height: 50px;
+    font-size: 25px;
 }
 
 /* circle */
@@ -95,8 +99,8 @@ p{
 }
 
 .blue{
-    background-color: blue;
-    
+    background-color: rgb(3, 92, 245);
+    color: white;
 }
 
 .purple{
